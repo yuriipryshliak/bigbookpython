@@ -53,4 +53,3 @@ MONTHS = ('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
 while True: # Keep asking until the user enters a valid amount.
     print('How many birthdays shall I generate? (Max 100)')
     response = input('> ')
-    
